@@ -1,0 +1,7 @@
+Item Code       Item Name                           Price (RM)
+D001            Ais Kacang                          ~7.90
+D002            Honey Toast                         ~4.90
+D003            Oreo Cheese Cake                    ~8.90
+D004            Matcha Crepe Cake                   ~9.90
+D005            Cendol                              ~5.50
+D006            Crepe Cake                          ~6.90

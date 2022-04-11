@@ -1,0 +1,10 @@
+OrderID         CustomerID      Payment_Method             Total
+T001            cp1             Credit Card                199.0
+T002            cp1             Credit Card                139.0
+T003            cp123           Cash                      2829.0
+T004            cp12            Credit Card                327.0
+T006            cp12            Credit Card                427.0
+T007            cp12            Cash                       447.0
+T008            cp12            Spiderman Pay             1668.0
+T009            jw              Cash                       248.0
+T0010           hjw22           Credit Card                 14.7

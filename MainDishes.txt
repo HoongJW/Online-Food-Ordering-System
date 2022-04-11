@@ -1,0 +1,14 @@
+Item Code       Item Name                           Price (RM)
+W001            Creamy Chicken Pasta                ~19.90
+W002            Oven BBQ Chicken Wings              ~14.90
+W003            Super Cheesy Mac and Cheese         ~22.90
+C001            Chicken Sizzling Rice Soup          ~13.90
+C002            Sweet and Sour Chicken              ~14.90
+C003            Wontons and Dumplings               ~12.90
+M001            Nasi Kerabu                         ~13.90
+M002            Rendang                             ~16.90
+M003            Ayam Penyet                         ~15.90
+I001            Tandoori Chicken                    ~12.90
+I002            Paneer Tikka                        ~19.90
+I003            Chicken Curry with Rice             ~15.00
+M005            Test2                               ~11.00

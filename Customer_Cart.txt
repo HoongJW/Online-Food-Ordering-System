@@ -1,0 +1,9 @@
+Username        ItemCode        Quantity
+hjw123          C002            10
+hjw123          D005            2
+hjw123          B005            3
+jjw             W001            2
+jjw             B001            2
+jjj             M003            1
+jjj             D005            3
+hjw22           B002            3

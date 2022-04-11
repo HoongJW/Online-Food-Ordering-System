@@ -1,0 +1,7 @@
+Item Code       Item Name                           Price (RM)
+B001            Ice Lemon Tea                       ~4.90
+B002            Coca-Cola                           ~4.90
+B003            100-Plus                            ~4.90
+B004            Sprite                              ~4.90
+B005            Mountain Dew                        ~4.90
+B007            Sour Honey Tea                      ~6.90
